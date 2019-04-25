@@ -2,8 +2,8 @@
 ## 课01作业
 ### 1.resultType（属性）和resultMap（标签引用）的区别？
     resultType和resultMap都是结果集映射成POJO的，2个不能同时使用。
-    resultType:返回的期望类型的类的完全限定名或别名。
-    resultMap:外部resultMap的命名引用，可以映射更为复杂的情形。
+    resultType:返回的期望类型的类完全限定名或别名。
+    resultMap:外部resultMap的命名引用，可以通过自定义，映射更为复杂的情形。
 
 
 ### 2.collection和association的区别？

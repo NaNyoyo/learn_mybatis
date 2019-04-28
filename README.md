@@ -15,3 +15,10 @@
 ### 3.Statement和PreparedStatement的区别？
     PreparedStatement是预编译，数据库对预编译的SQL会有缓存支持，多次执行，性能会比Statement好。
     PreparedStatement的安全性会比Statement好，可以防止SQL注入问题。
+
+
+## 课02作业
+### 1、跟踪update()流程，绘制每一步的时序图（4个）
+
+
+### 2、总结：MyBatis里面用到了哪些设计模式？
